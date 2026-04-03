@@ -177,10 +177,9 @@ Get-WebSite
 
 ## 📸 Evidencia
 
-Las capturas de pantalla del funcionamiento se encuentran en la carpeta `assets/screenshots/`.
+<img width="1600" height="920" alt="image" src="https://github.com/user-attachments/assets/05a4fc89-6ecd-4087-815a-595002164e4f" />
 
-El video de demostración muestra:
-- Hora y fecha del sistema
-- Configuración completa via PowerShell
-- Acceso exitoso desde cliente externo via RD Web Access
-- Lanzamiento de la RemoteApp (Portal Web)
+
+<img width="1032" height="781" alt="image" src="https://github.com/user-attachments/assets/460a05aa-459f-4426-8197-7bef0376e04f" />
+
+
